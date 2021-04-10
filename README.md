@@ -5,6 +5,15 @@
 🎯 Currenttly looking for 2021 Summer Internship or Full-Time Position for Fall 2021!
 
 
+#### ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://drive.google.com/drive/u/3/my-drive" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/Hbvs6RI.png" alt="Resume" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/austin-c-5684a2128/" target="_blank" rel="noopener noreferrer"> <img src="https://www.nicepng.com/png/full/375-3755097_join-the-conversation-linkedin-logo-white-png-transparent.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:austincheung001@gmail.com"> <img src="https://i.imgur.com/vlX49cf.png" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 #### 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
