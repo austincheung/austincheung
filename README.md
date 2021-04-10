@@ -13,6 +13,15 @@
   
 <img src="https://www.pikpng.com/pngl/m/430-4309640_js-logo-nodejs-logo-clipart.png" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+#### 🏆 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austincheung&theme=dark) &nbsp;&nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=austincheung&show_icons=true&theme=dark)   
+
+
+
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=austincheung.austincheung)
 <!--
 **austincheung/austincheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+     
