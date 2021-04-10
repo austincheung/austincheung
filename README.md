@@ -9,7 +9,7 @@
 
 
 <p align="center">
- <a href="https://drive.google.com/file/d/1fYyxlnv2OY-ScysdA9tx5WxWcRBdE-eB/view?usp=sharing" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/Hbvs6RI.png" alt="Resume" height="60" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://drive.google.com/file/d/1fYyxlnv2OY-ScysdA9tx5WxWcRBdE-eB/view?usp=sharing" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/UiGRoWs.png" alt="Resume" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/austin-c-5684a2128/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:austincheung001@gmail.com"> <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Mail" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
