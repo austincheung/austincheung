@@ -4,7 +4,10 @@
 
 🎯 Currenttly looking for 2021 Summer Internship or Full-Time Position for Fall 2021!
 
+Skills:
 
+Languages:
+![kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253 7824611015616144857225](https://user-images.githubusercontent.com/56004131/114261424-774ca800-99a8-11eb-9d94-55e4b9447f93.jpg)
 <!--
 **austincheung/austincheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
