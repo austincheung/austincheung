@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##I'm a 4th year Computer Science student at Ryerson University.
+
+🎯 Currenttly looking for 2021 Summer Internship or Full-Time Position for Fall 2021!
+
+
 <!--
 **austincheung/austincheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
