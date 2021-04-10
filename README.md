@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 #### I'm a 4th year Computer Science student at Ryerson University.
 
