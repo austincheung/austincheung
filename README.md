@@ -5,7 +5,7 @@
 🎯 Currenttly looking for 2021 Summer Internship or Full-Time Position for Fall 2021!
 
 
-#### ✉️ Find me on:
+#### ✉️ Connect with me by:
 
 
 <p align="center">
