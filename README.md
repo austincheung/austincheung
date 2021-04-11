@@ -40,7 +40,7 @@
 </p>
 
 #### 🏆 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austincheung&theme=dark) &nbsp;&nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=austincheung&show_icons=true&theme=dark)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austincheung&theme=dark) &nbsp;&nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=austincheung&show_icons=true&theme=dark&hide_border=true&hide_rank=true)   
 
 
 
