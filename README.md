@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I'm a 4th year Computer Science student at Ryerson University.
+#### I'm a recent Computer Science graduate from Ryerson University.
 
 🎯 Currenttly looking for 2021 Summer Internship or Full-Time Position for Fall 2021!
 
